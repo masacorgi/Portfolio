@@ -14,7 +14,7 @@
  
 <br>
 
-## 1. 라즈베리파이 도어락 프로젝트 2021.10 ~ 2021.11
+## 1. 라즈베리파이 도어락 프로젝트 2021.10 - 2021.11
    
 ![Achro-em-board](https://github.com/user-attachments/assets/8d6ab277-2505-4ca0-8b19-b76e10f5aacd)   
 
@@ -61,7 +61,7 @@ STM32F407 개발보드를 이용해 개발한 Touch-Screen MP3 프로그램입�
 
 <br>
 
-## 4. 홍보이벤트 플랫폼 Glow  2023.10 ~ 2024.06
+## 4. 홍보이벤트 플랫폼 Glow  2023.10 - 2024.06
 창업팀 Glow Korea에서 개발한 홍보이벤트 웹 플랫폼입니다.   
 Python Fastapi, Amazon DynamoDB, EC2를 사용하여 백엔드 제작되었습니다.   
 
